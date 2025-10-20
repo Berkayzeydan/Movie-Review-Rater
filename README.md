@@ -26,7 +26,11 @@ Prediction: positive
 
 ## Possible Improvements
 Collecting more and longer reviews 
+
 Using either lemmatizinr or stemming to unify similar terms
+
 Gaining deeper insight based on results 
+
 Experimenting with different models 
+
 Refactoring the code for better readability and maintainability.
